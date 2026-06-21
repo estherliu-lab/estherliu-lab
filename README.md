@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Esther 👋
 
-<!--
-**estherliu-lab/estherliu-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don’t come from a traditional engineering background, and I don’t write code by hand. With AI and coding agents, I turn ideas into warm tools, community projects, and useful little products.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐾 **PawHelp Writer** — A warm copywriting and card generator for stray animal rescue posts.
+- 🌿 **Warm Tools Lab** — Small AI-powered tools for creators, families, and everyday life.
+
+## What I care about
+
+- Building useful little products
+- Creating warm community projects
+- Turning ideas into real things with AI
+- Designing tools that feel kind, simple, and human
