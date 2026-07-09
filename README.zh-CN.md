@@ -1,6 +1,6 @@
 # 你好，我是 Esther 👋
 
-[English](README.md) · **中文**
+[English](https://github.com/estherliu-lab) · **中文**
 
 我不是传统工程背景，也不会手写代码。借助 AI 和 coding agents，我正在把自己的想法变成有温度的工具、社区项目和实用的小产品。
 
