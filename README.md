@@ -20,7 +20,7 @@ I don’t come from a traditional engineering background, and I don’t write co
 
 ---
 
-## 🧩 Project Gallery
+## 🧩  Featured projects
 
 A few small tools and experiments built with AI and coding agents.
 
