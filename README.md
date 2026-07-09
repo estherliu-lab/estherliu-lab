@@ -1,6 +1,6 @@
 # Hi, I'm Esther 👋
 
-**English** · [中文](README.zh-CN.md)
+**English** · [中文](https://github.com/estherliu-lab/estherliu-lab/blob/main/README.zh-CN.md)
 
 I don’t come from a traditional engineering background, and I don’t write code by hand. With AI and coding agents, I turn ideas into warm tools, community projects, and useful little products.
 
